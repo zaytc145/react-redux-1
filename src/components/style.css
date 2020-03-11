@@ -1,0 +1,15 @@
+body{
+    background-color: #f0dd92;
+}
+
+.ui.segment{
+    background: #ffffc5;
+}
+
+.ui.form textarea{
+    background: #d6e4aa;
+}
+
+.ui.button{
+    background: #d6e4aa;
+}
